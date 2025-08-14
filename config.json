@@ -1,0 +1,50 @@
+{
+  "term": {
+    "id": "2025FALL",
+    "start": "2025-09-13",
+    "end": "2025-12-21"
+  },
+  "price": {
+    "sat": 38,
+    "sun": 40
+  },
+  "addresses": {
+    "sat": "7 Hawksdale Rd",
+    "sun": "155 Hilda Ave"
+  },
+  "coupons": {
+    "WELCOME10": {
+      "type": "percent",
+      "value": 10
+    },
+    "TRY5": {
+      "type": "flat",
+      "value": 5
+    }
+  },
+  "notify": {
+    "email": {
+      "enabled": false,
+      "host": "",
+      "port": 587,
+      "secure": false,
+      "user": "",
+      "pass": "",
+      "from": "no-reply@asc.local"
+    }
+  },
+  "casl": {
+    "required": true,
+    "secret": "CHANGE_ME_SECRET"
+  },
+  "admin": {
+    "users": [
+      {
+        "username": "admin",
+        "passwordHash": "$2a$10$9B5wz9zvOjvO8m2qz5A2ruJcG5Zivf0JvQK4g2y7oQ0a7uQbb4wgm",
+        "totpSecret": "",
+        "totpEnabled": false
+      }
+    ]
+  }
+}

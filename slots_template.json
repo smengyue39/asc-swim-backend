@@ -1,0 +1,41 @@
+{
+  "sat": [
+    {
+      "time": "15:00-16:00",
+      "coach": "Gao",
+      "capacity": 4
+    },
+    {
+      "time": "16:00-17:00",
+      "coach": "Herry",
+      "capacity": 4
+    },
+    {
+      "time": "17:00-18:00",
+      "coach": "Jack",
+      "capacity": 4
+    }
+  ],
+  "sun": [
+    {
+      "time": "15:00-16:00",
+      "coach": "Gao",
+      "capacity": 4
+    },
+    {
+      "time": "16:00-17:00",
+      "coach": "Herry",
+      "capacity": 4
+    },
+    {
+      "time": "17:00-18:00",
+      "coach": "Jack",
+      "capacity": 4
+    },
+    {
+      "time": "18:00-19:00",
+      "coach": "Vincent",
+      "capacity": 4
+    }
+  ]
+}
