@@ -40,8 +40,8 @@
   "admin": {
     "users": [
       {
-        "username": "admin",
-        "passwordHash": "$2a$10$9B5wz9zvOjvO8m2qz5A2ruJcG5Zivf0JvQK4g2y7oQ0a7uQbb4wgm",
+        "username": "HerryKuang",
+        "passwordHash": "$2b$12$NtuKuClqvIOPDXu3zxl4teSPuubfYjXzjJOzBVMQwQxsrnewws5vG",
         "totpSecret": "",
         "totpEnabled": false
       }
